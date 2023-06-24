@@ -1,0 +1,19 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.input[type=number] {
+  --moz-appearance: textfield;
+}
+.custom-bg{
+  background-color: #FFFF;
+}
+.custom-bg-hover{
+  background-color: #FFFF;
+}
+.availability-form{
+  margin-top: -50px;
+  z-index: 2;
+  position: relative;
+}

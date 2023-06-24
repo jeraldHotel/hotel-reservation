@@ -1,0 +1,26 @@
+*{
+    font-family: 'Geologica' 'sans-serif';
+}
+.h-font{
+    font-family: 'Merienda' 'cursive';
+}
+.body{
+  background-image: url(IMAGES/bg.JPEG)no-repeat;
+  background-size: cover;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  appearance: none;
+  margin: 0;
+}
+.input[type=number] {
+  appearance: textfield;
+}
+.custom-bg{
+  background-color: #0d1011;
+  border: #0d1011;
+}
+.custom-bg:hover{
+  background-color: rgb(122, 120, 138);
+  border-color: rgb(122, 120, 138);
+}
